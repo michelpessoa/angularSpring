@@ -11,7 +11,7 @@ import javax.validation.constraints.Size;
 
 
 @Entity
-@Table(name = "Categorias", schema = "algamoneyapi")
+@Table(name = "categorias")
 @Builder
 @Data
 @NoArgsConstructor
